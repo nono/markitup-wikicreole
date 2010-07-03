@@ -9,3 +9,6 @@ Install:
 * Unzip it in your markItUp! sets folder
 * Modify your JS link to point at this set.js
 * Modify your CSS link to point at this style.css
+
+License:
+MIT/GPL (same that markitup)
